@@ -1,0 +1,7 @@
+1. Feynman writing Prompts
+
+Arrays - containers in which to hold values. Could be strings (words), integers (numbers), booleans (True of False), other arrays, objects, etc.
+
+Objects - values that can contain other properties.
+
+Method - property that has a function.
